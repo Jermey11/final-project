@@ -23,6 +23,28 @@ li {
 
 .fa-brands {
     color: blueviolet;
-    font-size: 300px;
+    font-size: 30px;
+}
 
+footer{
+    background-color: black;
+    height: 48px;
+    text-align: center;
+}
+.fa-twitter{
+    color: #1DA1F2
+}
+
+input {
+    background-color: white;
+    color: black;
+    height: 60px;
+}
+
+iframe {
+    text-align: center;
+}
+
+div {
+    text-align: center;
 }
